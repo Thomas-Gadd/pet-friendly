@@ -71,10 +71,12 @@ p {
 .download-button {
     margin: 5% 3% 5% 0;
     background-color: #61892f;
+    color: black;
 }
 
 .download-button:hover {
     background-color: white;
+    color: white;
 }
 
 /* Title Section */
