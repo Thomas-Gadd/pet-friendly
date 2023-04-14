@@ -115,17 +115,37 @@ p {
 .icon {
     color: #86c232;
     margin-bottom: 1rem;
+    margin-top: 1rem;
 }
 
 .icon:hover {
     color: #61892f;
 }
 
+/* Product Features Section */
+
+.service-item {
+    min-height: 20rem;
+    padding:12px;
+    margin: 16px;
+    background-color: #474b4f;
+    border-radius: 5px;
+}
+
+.product-link {
+    color: #86c232;
+}
+
+.product-link:hover {
+    color: #61892f;
+}
+
+
 /* Testimonial Section */
 
-#testimonials {
+/* #testimonials {
     background-color: #222629;
-}
+} */
 
 .testimonial-text {
     font-size: 3rem;
