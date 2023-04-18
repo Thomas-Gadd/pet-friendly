@@ -183,7 +183,7 @@ p {
 /* Pricing Section*/
 
 #pricing {
-    padding: 100px;
+    padding: 50px;
 }
 
 .price-text {
@@ -248,4 +248,5 @@ p {
     .press-logo {
         size: 4rem;
     }
+
   }
