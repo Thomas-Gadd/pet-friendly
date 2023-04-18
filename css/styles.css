@@ -145,9 +145,9 @@ p {
 
 /* Testimonial Section */
 
-/* #testimonials {
-    background-color: #222629;
-} */
+#testimonials {
+    padding-bottom: 0;
+}
 
 .testimonial-text {
     font-size: 3rem;
@@ -160,18 +160,18 @@ p {
     margin: 20px;
 }
 
+/* Press section */
 
 #press {
     background-color: #6b6e70;
     padding-bottom: 3%;
+    padding-top: 0;
 }
 
 .press-logo{
-    width: 15%;
+    width: auto;
     margin: 20px 20px 50px;
 }
-
-/* Press section */
 
 .press-heading {
     padding: 50px;
