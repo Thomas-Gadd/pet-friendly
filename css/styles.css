@@ -240,4 +240,8 @@ p {
       position: static;
       transform: rotate(0);
     }
+
+    .testimonial-text {
+        font-size: 1.5rem;
+    }
   }
