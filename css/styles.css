@@ -170,8 +170,8 @@ p {
 }
 
 .press-logo{
-    width: 16%;
-    margin: 20px 20px 50px;
+    width: 10rem;
+    margin: 20px 12px 50px;
 }
 
 .press-heading {
@@ -243,5 +243,9 @@ p {
 
     .testimonial-text {
         font-size: 1.5rem;
+    }
+
+    .press-logo {
+        size: 4rem;
     }
   }
