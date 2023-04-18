@@ -125,6 +125,10 @@ p {
 }
 
 /* Product Features Section */
+#product-features {
+    padding-left: 50px;
+    padding-right: 50px;
+}
 
 .service-item {
     min-height: 20rem;
@@ -242,7 +246,7 @@ p {
     }
 
     .testimonial-text {
-        font-size: 1.8rem;
+        font-size: 2.2rem;
     }
 
     .press-logo {
